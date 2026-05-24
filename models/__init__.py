@@ -1,0 +1,1 @@
+from models.networks.mynet import AUV_Net
